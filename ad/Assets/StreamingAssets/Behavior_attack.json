@@ -1,0 +1,154 @@
+{
+   "list" : [
+      {
+         "type" : "behavior",
+         "id" : "attack_weak",
+         "src_team" : "1",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "2",
+               "unit" : "101.1.1.2",
+               "behavior" : "attack_weak",
+               "intercepted" : "123",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "attack_moderate",
+         "src_team" : "1",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "2",
+               "unit" : "101.1.1.2",
+               "behavior" : "attack_moderate",
+               "intercepted" : "123",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : true,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "attack_heavy",
+         "src_team" : "1",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "3",
+               "unit" : "101.1.1.2",
+               "behavior" : "attack_heavy",
+               "intercepted" : "123",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : true,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "attack_charge",
+         "src_team" : "1",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "2",
+               "unit" : "101.1.1.2",
+               "behavior" : "attack_charge",
+               "intercepted" : "",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : true
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "enhance",
+         "src_team" : "2",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "2",
+               "unit" : "101.1.1.2",
+               "behavior" : "enhance",
+               "intercepted" : "123",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "first_blood",
+         "src_team" : "2",
+         "src_unit" : "101.1.1.2",
+         "dests" : [
+            {
+               "team" : "1",
+               "unit" : "101.1.1.2",
+               "behavior" : "attack_heavy",
+               "intercepted" : "123",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : true
+            }
+         ]
+      }
+   ]
+}

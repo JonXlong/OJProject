@@ -1,0 +1,70 @@
+{
+   "list" : [
+      {
+         "type" : "behavior",
+         "id" : "arbiter_attak",
+         "src_team" : "NPC.arbiter",
+         "src_unit" : "10.0.0.1",
+         "dests" : [
+            {
+               "team" : "1",
+               "unit" : "10.0.0.1",
+               "behavior" : "attack_weak",
+               "intercepted" : "",
+               "gather_result" : false,
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false,
+               "firstblood_team" : "1",
+               "time" : "xx-xx-xx"
+            },
+            {
+               "team" : "2",
+               "unit" : "10.0.0.2",
+               "behavior" : "attack_moderate",
+               "intercepted" : "",
+               "gather_result" : false,
+               "damages" : {
+                  "occupied" : true,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false,
+               "time" : "xx-xx-xx",
+               "firstblood_team" : "1"
+            },
+            {
+               "team" : "3",
+               "unit" : "10.0.0.3",
+               "behavior" : "attack_weak",
+               "intercepted" : "123",
+               "gather_result" : false,
+               "damages" : {
+                  "occupied" : true,
+                  "pwn" : true,
+                  "down" : true
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false,
+               "time" : "xx-xx-xx",
+               "firstblood_team" : "1"
+            }
+         ],
+         "time" : "xx-xx-xx"
+      }
+   ]
+}

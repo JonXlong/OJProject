@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\_TopuScripts\Small.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="423" Column="38" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameWebSocket.cs" Line="97" Column="6" />
+      <File FileName="Assets\Plugins\WebSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_MouseClick\UIPannelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimWorldManager.cs" Line="99" Column="21" />
+      <File FileName="Assets\Scripts\UI\GameUI\GameUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimRealWorld.cs" Line="287" Column="55" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamBase.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\Utils\DrawLineEX.cs" Line="88" Column="18" />
+      <File FileName="Assets\Scripts\Sims\Effect\RealLinkDot.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamReal.cs" Line="193" Column="60" />
+      <File FileName="Assets\_TopuScripts\DrawLineFree.cs" Line="1" Column="1" />
+      <File FileName="Assets\_TopuScripts\SmallManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Data\SimTeamData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimWorldBase.cs" Line="60" Column="21" />
+      <File FileName="Assets\Scripts\Sims\World\SimVirtualWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamVirtual.cs" Line="24" Column="99" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimUnitReal.cs" Line="217" Column="81" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimUnitBase.cs" Line="108" Column="6" />
+      <File FileName="Assets\Scripts\Sims\Data\SimBehaviorData.cs" Line="45" Column="2" />
+      <File FileName="Assets\Scripts\GameConfigs.cs" Line="40" Column="2" />
+      <File FileName="Assets\Scripts\Sims\Battle\WayPointMover.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\Sims\Data\SimCommandData.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

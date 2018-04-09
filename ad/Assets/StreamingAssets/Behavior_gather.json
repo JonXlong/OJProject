@@ -1,0 +1,54 @@
+{
+   "list" : [
+      {
+         "type" : "behavior",
+         "id" : "puzzle",
+         "src_team" : "2",
+         "src_unit" : "10.0.0.1",
+         "dests" : [
+            {
+               "team" : "NPC.puzzle",
+               "unit" : "1",
+               "behavior" : "gather",
+               "intercepted" : "",
+               "gather_result" : false,
+               "damages" : {
+                  "occupied" : true,
+                  "pwn" : true,
+                  "down" : true
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      },
+      {
+         "type" : "behavior",
+         "id" : "puzzle",
+         "src_team" : "1",
+         "src_unit" : "10.0.0.1",
+         "dests" : [
+            {
+               "team" : "NPC.puzzle",
+               "unit" : "2",
+               "behavior" : "gather",
+               "intercepted" : "",
+               "gather_result" : true,
+               "damages" : {
+                  "occupied" : true,
+                  "pwn" : true,
+                  "down" : true
+               },
+               "score" : {
+                  "src_addscore" : 100,
+                  "dest_addscore" : -50
+               },
+               "firstblood" : false
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,44 @@
+﻿<Properties StartupItem="XCTFWebGL.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\_MouseClick\MouseManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamReal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamVirtual.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimUnitBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimUnitReal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimUnitVirtual.cs" Line="217" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Data\SimBehaviorData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameWebSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameConfigs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\GameUI\DisplayUIGroup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\GameUI\GameUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimWorldManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimVirtualWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\MissileBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMods\GameMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimWorldBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Data\SimCommandData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\World\SimRealWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Utils\DrawLineEX.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimTeamBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\MissileProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\VritualGatherProjectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\WayPointMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMods\RealGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMods\SwitchWorldGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameMods\VirtualGM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Data\SendData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Data\SimTeamData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimArbiterReal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Objects\SimArbiterVirtual.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\RealMissileAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Sims\Battle\Forcefield.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\_MouseClick\MouseManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

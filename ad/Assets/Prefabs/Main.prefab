@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013930772160}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013930772160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010118579050}
+  - 114: {fileID: 114000012884706038}
+  - 114: {fileID: 114000010883903772}
+  - 114: {fileID: 114000011013150724}
+  m_Layer: 0
+  m_Name: Main
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010118579050
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013930772160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000010883903772
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013930772160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05707ab76f94df346b221b610406adcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  websocket: {fileID: 114000012884706038}
+  debugMgr: {fileID: 114000011013150724}
+  virutalSkyBox: {fileID: 2100000, guid: 8e85690cf80050f47b91647ab790aa40, type: 2}
+  realSkyBox: {fileID: 2100000, guid: 384c14fbfaa176b4b9c13f409462487b, type: 2}
+  missileVirtualWeak: {fileID: 100000, guid: 3e1b2df5b9db3bc479cf5e383f2f23e4, type: 2}
+  missileVirtualMid: {fileID: 100000, guid: 0bf4644c6e2899840b08dddb628eaeda, type: 2}
+  missileVirtualHeavy: {fileID: 100000, guid: a9c95969dd4d043448c3c7aa396c1eaa, type: 2}
+  missileVirtualCharge_ready: {fileID: 1000012768329052, guid: 77ce66a1ba54acd4ea744447aca4f1f5,
+    type: 2}
+  missileVirtualCharge_attack: {fileID: 100000, guid: 7e24cf8a14b6daf43a1e875d090d88fb,
+    type: 2}
+  virtualShield: {fileID: 1000012032587448, guid: 9f3c9ebd7d2f7764c9350831e6c6f13e,
+    type: 2}
+  virtualEnhanceEffect: {fileID: 100002, guid: 1fef50466413f78469aa2dafaf241889, type: 2}
+  virtualGatherEffect: {fileID: 1000011792549380, guid: 41fa075fdf3578f4386cafa19271289b,
+    type: 2}
+  virtualDamagePWN: {fileID: 2100000, guid: 1cfe22f2d531cf24b9639d72266726de, type: 2}
+  realTeamFloor: {fileID: 1000010334041006, guid: 7cf973c5c0cff1f4cb9910b046426074,
+    type: 2}
+  realMissile: {fileID: 1000012903049254, guid: a74f6bddccb20be47ac5d2bfe2be1123,
+    type: 2}
+  realDamagePWN: {fileID: 1000014056937024, guid: ffc2ca73304cdea48af770e6238a3fa1,
+    type: 2}
+  realDamageDown: {fileID: 1000013952809104, guid: 1752b1848e1d6e6439e1be8ec030e70e,
+    type: 2}
+  realDamageOccupied: {fileID: 1000014164402984, guid: 74c3941bd22ea2445b89120f4ab25946,
+    type: 2}
+  realGatherEffect: {fileID: 1000012903049254, guid: 91f16ec587c5102478828c02e4146143,
+    type: 2}
+  realAttackImpackMidEffect: {fileID: 1000011189529368, guid: ca62a01d0b74e8e4691843ea51b2b5c3,
+    type: 2}
+  realAttackHeavyImpackEffect: {fileID: 1000011141614526, guid: 2873d2bab023e744e8497bb93b4599a8,
+    type: 2}
+  realShieldEffect: {fileID: 1000010492793726, guid: 3293b3489d4c5a44cb01a98fc9276716,
+    type: 2}
+  real_line: {fileID: 1000010475702892, guid: c74cce3533fc67d469919a399c99ab90, type: 2}
+  real_corner: {fileID: 1000011084051980, guid: fe1ac4a3c9e8d1544b0127a944624a9f,
+    type: 2}
+  virtualTeamHUD: {fileID: 100000, guid: ecdaf4f0e2fd9e44688ae5be785791cd, type: 2}
+  scoreHUD: {fileID: 100000, guid: 2b465a1e249e8d94abd3a723c04f253c, type: 2}
+  initialized: 0
+  currentGameMode: {fileID: 0}
+--- !u!114 &114000011013150724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013930772160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1993d384337d1724eba73347e191ce6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debugEnable: 1
+  dispMsg: {fileID: 0}
+  prevButton: {fileID: 0}
+  nextButton: {fileID: 0}
+  debugUI: {fileID: 0}
+  curIndex: 0
+  debugConfigs:
+  - Behavior_attack.json
+  - Behavior_gather.json
+  - Behavior_arbiter.json
+--- !u!114 &114000012884706038
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013930772160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2e9007f977864b1e8be2f2d814c4cf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

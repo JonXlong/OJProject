@@ -1,0 +1,107 @@
+﻿{
+	"type": "topscoreboard",
+"title":"",
+	"list": [{
+		"mvp": "NeSE_ai",
+		"name": "NeSE",
+		"countryflag": "",
+		"rank": 1,
+		"firstblood": "3",
+		"teamId": 873,
+		"score": 11059.52,
+"trend":"still",
+		"logo": ""
+		
+	},
+	{
+		"mvp": "天枢_ai",
+		"name": "天枢",
+		"countryflag": "",
+		"rank": 2,
+		"firstblood": "3",
+		"teamId": 281,
+		"score": 10925.14,
+"trend":"up",
+		"logo": "http://account.xctf.org.cn/media/teamlogo/Dubhe_Logo.jpg"
+	},
+	{
+		"mvp": "Lancet_ai",
+		"name": "Lancet",
+		"countryflag": "",
+		"rank": 3,
+		"firstblood": "1",
+		"teamId": 1099,
+		"score": 10025.4,"trend":"up",
+		"logo": ""
+	},
+	{
+		"mvp": "ROIS_ai",
+		"name": "ROIS",
+		"countryflag": "",
+		"rank": 4,
+		"firstblood": "1",
+		"teamId": 1,
+		"score": 9491.69,"trend":"up",
+		"logo": "https://account.xctf.org.cn/media/teamlogo/roislogo.jpg"
+	},
+	{
+		"mvp": "motesolo_ai",
+		"name": "motesolo",
+		"countryflag": "",
+		"rank": 5,
+		"firstblood": "1",
+		"teamId": 2724,
+		"score": 8464.41,"trend":"up",
+		"logo": ""
+	},
+	{
+		"mvp": "0ops_ai",
+		"name": "0ops",
+		"countryflag": "",
+		"rank": 6,
+		"firstblood": "0",
+		"teamId": 330,
+		"score": 7689.47,"trend":"up",
+		"logo": "http://account.xctf.org.cn/media/teamlogo/0ops_black.png"
+	},
+	{
+		"mvp": "Redbud_ai",
+		"name": "Redbud",
+		"countryflag": "",
+		"rank": 7,
+		"firstblood": "2",
+		"teamId": 1134,
+		"score": 7667.17,"trend":"up",
+		"logo": "http://account.xctf.org.cn/media/teamlogo/Rebud.png"
+	},
+	{
+		"mvp": "FlappyPig_ai",
+		"name": "FlappyPig",
+		"countryflag": "",
+		"rank": 8,
+		"firstblood": "4",
+		"teamId": 115,
+		"score": 7179.83,"trend":"up",
+		"logo": ""
+	},
+	{
+		"mvp": "AAA_ai",
+		"name": "AAA",
+		"countryflag": "",
+		"rank": 9,
+		"firstblood": "1",
+		"teamId": 323,
+		"score": 7042.79,"trend":"up",
+		"logo": ""
+	},
+	{
+		"mvp": "SU_ai",
+		"name": "SU",
+		"countryflag": "",
+		"rank": 10,
+		"firstblood": "2",
+		"teamId": 1761,
+		"score": 7018.79,"trend":"down",
+		"logo": ""
+	}]
+}

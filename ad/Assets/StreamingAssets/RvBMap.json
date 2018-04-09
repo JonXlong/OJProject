@@ -1,0 +1,323 @@
+{
+	"type": "teams",
+	"teams": [
+	{
+		"team": "Red",
+		"color": "red",
+		"name": "Red",
+		"logo": "http://58.213.63.28:8050/static/teamlogos/red.png",
+		"score": 10000,
+		"units": [{
+			"id": "Red-Exchange",
+			"color": "red",
+			"type": "real_link_router",
+			"virtual_world": {
+				"model": "vir_att_shipgroup",
+				"show_children": true
+			},
+			"damages": {
+				"occupied": false,
+				"pwn": false,
+				"down": false
+			},
+			"units": [{
+				"id": "Red-FW",
+				"color": "red",
+				"type": "real_link_firewall",
+				"virtual_world": {
+					"model": "vir_res_asset",
+					"show_children": true
+				},
+				"damages": {
+					"occupied": false,
+					"pwn": false,
+					"down": false
+				},
+				"units": [{
+					"id": "Red-DMZSW",
+					"color": "red",
+					"type": "real_link_switch",
+					"virtual_world": {
+						"model": "vir_res_asset",
+						"show_children": true
+					},
+					"damages": {
+						"occupied": false,
+						"pwn": false,
+						"down": false
+					},
+					"units": [{
+						"id": "Red-WebServer",
+						"color": "red",
+						"type": "real_res_server",
+						"virtual_world": {
+							"model": "vir_res_asset",
+							"show_children": true
+						},
+						"damages": {
+							"occupied": false,
+							"pwn": false,
+							"down": false
+						},
+						"units": []
+					}]
+				},
+				{
+					"id": "Red-CoreSW",
+					"color": "red",
+					"type": "real_link_switch",
+					"virtual_world": {
+						"model": "vir_res_asset",
+						"show_children": true
+					},
+					"damages": {
+						"occupied": false,
+						"pwn": false,
+						"down": false
+					},
+					"units": [{
+						"id": "Red-WorkSpaceSW",
+						"color": "red",
+						"type": "real_att_laptop",
+						"virtual_world": {
+							"model": "vir_res_asset",
+							"show_children": true
+						},
+						"damages": {
+							"occupied": false,
+							"pwn": false,
+							"down": false
+						},
+						"units": [{
+							"id": "Red-PC1",
+							"color": "red",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						},
+						{
+							"id": "Red-PC2",
+							"color": "red",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						}]
+					},
+					{
+						"id": "Red-DataCenterSW",
+						"color": "red",
+						"type": "real_att_laptop",
+						"virtual_world": {
+							"model": "vir_res_asset",
+							"show_children": true
+						},
+						"damages": {
+							"occupied": false,
+							"pwn": false,
+							"down": false
+						},
+						"units": [{
+							"id": "Red-DataBase",
+							"color": "red",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						},
+						{
+							"id": "Red-ComputeServer",
+							"color": "red",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						}]
+					}]
+				}]
+			}]
+		}]
+	},
+	{
+		"team": "Blue",
+		"color": "blue",
+		"name": "Blue",
+		"logo": "http://58.213.63.28:8050/static/teamlogos/blue.png",
+		"score": 10000,
+		"units": [{
+			"id": "Blue-Exchange",
+			"color": "blue",
+			"type": "real_link_router",
+			"virtual_world": {
+				"model": "vir_att_shipgroup",
+				"show_children": true
+			},
+			"damages": {
+				"occupied": false,
+				"pwn": false,
+				"down": false
+			},
+			"units": [{
+				"id": "Blue-FW",
+				"color": "blue",
+				"type": "real_link_firewall",
+				"virtual_world": {
+					"model": "vir_res_asset",
+					"show_children": true
+				},
+				"damages": {
+					"occupied": false,
+					"pwn": false,
+					"down": false
+				},
+				"units": [{
+					"id": "Blue-CoreSW",
+					"color": "blue",
+					"type": "real_link_switch",
+					"virtual_world": {
+						"model": "vir_res_asset",
+						"show_children": true
+					},
+					"damages": {
+						"occupied": false,
+						"pwn": false,
+						"down": false
+					},
+					"units": [{
+						"id": "Blue-VPNServer",
+						"color": "blue",
+						"type": "real_res_server",
+						"virtual_world": {
+							"model": "vir_res_asset",
+							"show_children": true
+						},
+						"damages": {
+							"occupied": false,
+							"pwn": false,
+							"down": false
+						},
+						"units": []
+					},
+					{
+						"id": "Blue-WorkSpaceSW",
+						"color": "blue",
+						"type": "real_res_server",
+						"virtual_world": {
+							"model": "vir_res_asset",
+							"show_children": true
+						},
+						"damages": {
+							"occupied": false,
+							"pwn": false,
+							"down": false
+						},
+						"units": [{
+							"id": "Blue-PC1",
+							"color": "blue",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						},
+						{
+							"id": "Blue-PC2",
+							"color": "blue",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": []
+						},
+						{
+							"id": "Blue-VSwitch",
+							"color": "blue",
+							"type": "real_att_laptop",
+							"virtual_world": {
+								"model": "vir_res_asset",
+								"show_children": true
+							},
+							"damages": {
+								"occupied": false,
+								"pwn": false,
+								"down": false
+							},
+							"units": [{
+								"id": "Blue-VMServer1",
+								"color": "blue",
+								"type": "real_att_laptop",
+								"virtual_world": {
+									"model": "vir_res_asset",
+									"show_children": true
+								},
+								"damages": {
+									"occupied": false,
+									"pwn": false,
+									"down": false
+								},
+								"units": []
+							},
+							{
+								"id": "Blue-VMServer2",
+								"color": "blue",
+								"type": "real_att_laptop",
+								"virtual_world": {
+									"model": "vir_res_asset",
+									"show_children": true
+								},
+								"damages": {
+									"occupied": false,
+									"pwn": false,
+									"down": false
+								},
+								"units": []
+							}]
+						}]
+					}]
+				}]
+			}]
+		}]
+	}],
+	"puzzles": []
+}

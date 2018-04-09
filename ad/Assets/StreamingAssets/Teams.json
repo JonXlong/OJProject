@@ -1,0 +1,1155 @@
+{
+   "type" : "teams",
+   "teams" : [
+      {
+         "team" : "1",
+         "name" : "1111",
+         "color" : "red",
+         "logo" : "http://101.200.125.135/xctf/nsis.png",
+         "score" : 1000,
+         "units" : [
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "team" : "2",
+         "name" : "2222",
+         "color" : "blue",
+         "logo" : "http://101.200.125.135/xctf/nsis.png",
+         "score" : 1000,
+         "units" : [
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.2",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : []
+                  },
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "team" : "3",
+         "name" : "3333",
+         "color" : "yellow",
+         "logo" : "http://101.200.125.135/xctf/nsis.png",
+         "score" : 1000,
+         "units" : [
+            {
+               "id" : "10.0.0.3",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : []
+                  },
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "team" : "4",
+         "name" : "1",
+         "color" : "green",
+         "logo" : "http://101.200.125.135/xctf/nsis.png",
+         "score" : 1000,
+         "units" : [
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : []
+                  },
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id" : "10.0.0.1",
+               "type" : "real_att_laptop",
+               "virtual_world" : {
+                  "model" : "vir_att_shipgroup",
+                  "show_children" : false
+               },
+               "damages" : {
+                  "occupied" : false,
+                  "pwn" : false,
+                  "down" : false
+               },
+               "units" : [
+                  {
+                     "id" : "10.0.1.1",
+                     "type" : "real_res_server",
+                     "virtual_world" : {
+                        "model" : "vir_res_asset",
+                        "show_children" : false
+                     },
+                     "damages" : {
+                        "occupied" : false,
+                        "pwn" : false,
+                        "down" : false
+                     },
+                     "units" : [
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        },
+                        {
+                           "id" : "10.1.1.1",
+                           "type" : "real_att_laptop",
+                           "virtual_world" : {
+                              "model" : "vir_res_asset",
+                              "show_children" : false
+                           },
+                           "damages" : {
+                              "occupied" : false,
+                              "pwn" : false,
+                              "down" : false
+                           },
+                           "units" : [
+                              {
+                                 "id" : "101.1.1.1",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              },
+                              {
+                                 "id" : "101.1.1.2",
+                                 "type" : "real_att_laptop",
+                                 "virtual_world" : {
+                                    "model" : "vir_res_asset",
+                                    "show_children" : false
+                                 },
+                                 "damages" : {
+                                    "occupied" : false,
+                                    "pwn" : false,
+                                    "down" : false
+                                 },
+                                 "units" : []
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

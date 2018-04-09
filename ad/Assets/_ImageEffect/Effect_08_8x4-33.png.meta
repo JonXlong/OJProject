@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: c4628ea92a85e9548846736ae9e0170d
+timeCreated: 1503903419
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Effect_08_8x4-33_0
+    21300002: Effect_08_8x4-33_1
+    21300004: Effect_08_8x4-33_2
+    21300006: Effect_08_8x4-33_3
+    21300008: Effect_08_8x4-33_4
+    21300010: Effect_08_8x4-33_5
+    21300012: Effect_08_8x4-33_6
+    21300014: Effect_08_8x4-33_7
+    21300016: Effect_08_8x4-33_8
+    21300018: Effect_08_8x4-33_9
+    21300020: Effect_08_8x4-33_10
+    21300022: Effect_08_8x4-33_11
+    21300024: Effect_08_8x4-33_12
+    21300026: Effect_08_8x4-33_13
+    21300028: Effect_08_8x4-33_14
+    21300030: Effect_08_8x4-33_15
+    21300032: Effect_08_8x4-33_16
+    21300034: Effect_08_8x4-33_17
+    21300036: Effect_08_8x4-33_18
+    21300038: Effect_08_8x4-33_19
+    21300040: Effect_08_8x4-33_20
+    21300042: Effect_08_8x4-33_21
+    21300044: Effect_08_8x4-33_22
+    21300046: Effect_08_8x4-33_23
+    21300048: Effect_08_8x4-33_24
+    21300050: Effect_08_8x4-33_25
+    21300052: Effect_08_8x4-33_26
+    21300054: Effect_08_8x4-33_27
+    21300056: Effect_08_8x4-33_28
+    21300058: Effect_08_8x4-33_29
+    21300060: Effect_08_8x4-33_30
+    21300062: Effect_08_8x4-33_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1538
+        width: 505
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1539
+        width: 506
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_2
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1536
+        width: 506
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_3
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1539
+        width: 507
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_4
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1536
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_5
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1538
+        width: 505
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_6
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1536
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_7
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 1538
+        width: 509
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1026
+        width: 506
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1027
+        width: 509
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1024
+        width: 509
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_11
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1027
+        width: 506
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_12
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1024
+        width: 505
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_13
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1024
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_14
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1024
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_15
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1025
+        width: 505
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 512
+        width: 505
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 512
+        width: 506
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_18
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 515
+        width: 505
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_19
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 512
+        width: 505
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_20
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 515
+        width: 506
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_21
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 514
+        width: 508
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_22
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 512
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_23
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 512
+        width: 505
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 505
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 505
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_26
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3
+        width: 506
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_27
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2
+        width: 506
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_28
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 3
+        width: 506
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_29
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3
+        width: 508
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_30
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 3
+        width: 507
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Effect_08_8x4-33_31
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 0
+        width: 506
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
